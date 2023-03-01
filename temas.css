@@ -1,0 +1,51 @@
+.contenedor{
+  width:100%;   
+  height: 1400px;
+  background-color: #ccc299c2;
+
+
+}
+
+.encabezado{
+    width:100%;
+    height: 200px;
+    background-color: rgb(118, 114, 85);
+
+    
+}
+
+.menu{
+
+  width: 100%;
+  height: 100px;
+  background-color: rgb(253, 252, 250);
+}
+
+.contenedor2{
+
+    width:100%;
+    height: 1200px;
+    background-color: rgb(153, 132, 99);
+    display:flex;
+}
+
+.izquierdo{
+
+    width:20%;
+    height: 1200px;
+    background-color: rgb(68, 73, 140);
+}
+
+.centro{
+
+    width:60%;
+    height: 1200px;
+    background-color: rgb(160, 145, 94);
+}
+
+.derecho{
+
+    width:20%;
+    height: 1200px;
+    background-color: rgb(96, 80, 202);
+}
