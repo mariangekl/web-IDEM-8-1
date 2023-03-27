@@ -35,6 +35,7 @@
     width:20%;
     height: 1200px;
     background-color: rgb(68, 73, 140);
+
 }
 
 .centro{
@@ -42,7 +43,10 @@
     width:60%;
     height: 1200px;
     background-color: rgb(160, 145, 94);
-}
+    color: blue;
+    font-size: xx-small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
 
 .derecho{
 
