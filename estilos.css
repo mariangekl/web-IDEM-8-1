@@ -11,12 +11,56 @@
     
     body{
     
-    background-image: url("fondo.jpg");
+ background-image: url("arc.jpg");
     
-    background-repeat: no-repeat;
+background-repeat: no-repeat;
     
     }
+
+.fondomatematicas2{
     
+  background-image: url("");
+        
+  background-repeat: no-repeat;
+        
+   }
+
+ .fondotecnologia2{
+    
+  background-image: url("");
+            
+background-repeat: no-repeat;
+     
+ }
+   .fondobiologia2{
+    
+background-image: url("");
+                
+ background-repeat: no-repeat;
+                
+                }              
+  .fondoreligion2{
+    
+background-image: url("");
+          
+background-repeat: no-repeat;
+                 
+ }
+  .fondoingles2{
+    
+background-image: url("");
+                        
+background-repeat: no-repeat;
+                        
+  }
+    
+  .fondotecnologia2{
+    
+    background-image: url("");
+                            
+    background-repeat: no-repeat;
+                            
+      }
     
     
     .img{
@@ -37,7 +81,7 @@
     
     left: 180px;
     
-    background-image: url("medellin.jpeg");
+    background-image: url("moon.jpg");
     
     }
     
@@ -57,14 +101,14 @@
     
     text-align: justify;
     
-    color: brown;
+    color: rgb(1, 15, 36);
     
      
     
     }
     .contenido{
 
-        height: 280px;
+        height: 100px;
         
         width: 100%;
         
@@ -78,39 +122,290 @@
         
          
         
-        .imagentecno{
+        .imagenbio{
         
          
         
-        background-repeat: no-repeat;
-        
-        float:left;
-        
-        height: 200px;
-        
-        width: 260px;
-        
-        margin-left: 5px;
-        
-        margin-right:5px;
-        
-        background-image: url("recursos\ 2.jpg");
-        
-        }
-        
-        
-        
-        .textotecno{
-        
-        text-align: justify;
-        
-        color: azure;
-        
-        font-size: 20px;
-        
-        
-        
-        }
-        
-        
+  background-repeat: no-repeat;
             
+   float:left;
+            
+  height: 200px;
+            
+   width: 230px;
+    
+  margin-left: 5px;
+            
+ margin-right:5px;
+            
+ background-image: url("albinismo.jpg");
+            
+     }
+ .imagenbiol{
+        
+         
+        
+  background-repeat: no-repeat;
+                
+  float:left;
+              
+  height: 200px;
+                
+  width: 260px;
+                
+ margin-left: 5px;
+                
+ margin-right:5px;
+                
+ background-image: url("ani.jpg");
+                
+ }
+                    
+        
+        
+   .textobio{
+        
+    text-align: justify;
+    
+    color: rgb(4, 2, 39);
+    
+    font-size: 30px;
+    
+    
+    
+    }
+        
+        
+        .contenido{
+
+            height: 280px;
+            
+            width: 100%;
+            
+            position: absolute;
+            
+            top: 410px;
+            
+             
+            
+            }
+            
+            .imagenmat{
+        
+         
+        
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 200px;
+                
+                width: 310px;
+                
+                margin-left: 11px;
+                
+                margin-right:11px;
+                
+                background-image: url("poli.jpg");
+                
+                }
+                    
+             
+    
+            
+            .textomat{
+            
+            text-align: justify;
+            
+            color:rgb(4, 2, 39);
+            
+            font-size:30px;
+            
+            
+            
+            }
+
+            .contenido{
+
+                height: 280px;
+                
+                width: 100%;
+                
+                position: absolute;
+                
+                top: 410px;
+                
+                 
+                
+                }
+                .imagensoc{
+            
+             
+            
+                    background-repeat: no-repeat;
+                    
+                    float:left;
+                    
+                    height: 200px;
+                    
+                    width: 260px;
+                    
+                    margin-left: 5px;
+                    
+                    margin-right:5px;
+                    
+                    background-image: url("medellin.jpeg");
+                    
+                    }
+
+                    .textosoc{
+            
+                        text-align: justify;
+                        
+                        color: rgb(4, 2, 39);
+                        
+                        font-size: 30px;
+                        
+                        
+                        
+                        }
+ 
+                        .contenido{
+            
+                            height: 280px;
+                            
+                            width: 100%;
+                            
+                            position: absolute;
+                            
+                            top: 410px;
+                            
+                             
+                            
+                            }
+                            .imagening{
+            
+             
+            
+                                background-repeat: no-repeat;
+                                
+                                float:left;
+                                
+                                height: 200px;
+                                
+                                width: 260px;
+                                
+                                margin-left: 5px;
+                                
+                                margin-right:5px;
+                                
+                                background-image: url("medellin.jpeg");
+                                
+                                }
+            
+                                .textoing{
+                        
+                                    text-align: justify;
+                                    
+                                    color: azure;
+                                    
+                                    font-size: 20px;
+                                    
+                                    
+                                    
+                                    }
+                                    .contenido{
+            
+                                        height: 280px;
+                                        
+                                        width: 100%;
+                                        
+                                        position: absolute;
+                                        
+                                        top: 410px;
+                                        
+                                         
+                                        
+                                        }
+                                        .imagenrel{
+                        
+                         
+                        
+                                            background-repeat: no-repeat;
+                                            
+                                            float:left;
+                                            
+                                            height: 200px;
+                                            
+                                            width: 260px;
+                                            
+                                            margin-left: 5px;
+                                            
+                                            margin-right:5px;
+                                            
+                                            background-image: url("medellin.jpeg");
+                                            
+                                            }
+                        
+                                            .textorel{
+                                    
+                                                text-align: justify;
+                                                
+                                                color: azure;
+                                                
+                                                font-size: 20px;
+                                                
+                                                
+                                                
+                                                }
+                                                .contenido{
+            
+                                                    height: 280px;
+                                                    
+                                                    width: 100%;
+                                                    
+                                                    position: absolute;
+                                                    
+                                                    top: 410px;
+                                                    
+                                                     
+                                                    
+                                                    }
+                                                    .imagentecno{
+                                    
+                                     
+                                    
+                                                        background-repeat: no-repeat;
+                                                        
+                                                        float:left;
+                                                        
+                                                        height: 200px;
+                                                        
+                                                        width: 260px;
+                                                        
+                                                        margin-left: 5px;
+                                                        
+                                                        margin-right:5px;
+                                                        
+                                                        background-image: url("medellin.jpeg");
+                                                        
+                                                        }
+                                    
+                                                        .textotecno{
+                                                
+                                                            text-align: justify;
+                                                            
+                                                            color: azure;
+                                                            
+                                                            font-size: 20px;
+                                                            
+                                                            
+                                                            
+                                                            }
+                                                            
+
+
+                    
+                    
+                    
+                    
