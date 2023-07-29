@@ -11,7 +11,7 @@
     
     body{
     
- background-image: url("arc.jpg");
+ background-image: url("");
     
 background-repeat: no-repeat;
     
@@ -54,9 +54,10 @@ background-repeat: no-repeat;
                         
   }
     
-  .fondotecnologia2{
+  
+  .fondosociales{
     
-    background-image: url("");
+    background-image: url("hisp.jpg");
                             
     background-repeat: no-repeat;
                             
@@ -174,6 +175,57 @@ background-repeat: no-repeat;
     
     
     }
+
+    .imagenbiolo{
+        
+      background-repeat: no-repeat;
+                
+  float:left;
+              
+  height: 298px;
+                
+  width: 3300px;
+                
+ margin-left: 5px;
+                
+ margin-right:5px;
+                
+ background-image: url("fibro.jpg");
+      
+      
+      }
+
+      .textobiol{
+        
+        text-align: justify;
+        
+        color: rgb(4, 2, 39);
+        
+        font-size: 30px;
+        
+        
+        
+        }
+
+        .imagenbiolog{
+        
+          background-repeat: no-repeat;
+                    
+      float:left;
+                  
+      height: 400px;
+                    
+      width: 460px;
+                    
+     margin-left: 5px;
+                    
+     margin-right:5px;
+                    
+     background-image: url("pulm.jpg");
+          
+          
+          }
+    
         
         
         .contenido{
@@ -246,15 +298,15 @@ background-repeat: no-repeat;
                     
                     float:left;
                     
-                    height: 200px;
+                    height: 1100px;
                     
-                    width: 260px;
+                    width: 1900px;
                     
                     margin-left: 5px;
                     
                     margin-right:5px;
                     
-                    background-image: url("medellin.jpeg");
+                    background-image: url("mapa\ conceptual\ azul\ sociales\ .png");
                     
                     }
 
@@ -291,15 +343,15 @@ background-repeat: no-repeat;
                                 
                                 float:left;
                                 
-                                height: 200px;
+                                height: 400px;
                                 
-                                width: 260px;
+                                width: 460px;
                                 
                                 margin-left: 5px;
                                 
                                 margin-right:5px;
                                 
-                                background-image: url("medellin.jpeg");
+                                background-image: url("");
                                 
                                 }
             
@@ -307,9 +359,9 @@ background-repeat: no-repeat;
                         
                                     text-align: justify;
                                     
-                                    color: azure;
+                                    color: rgb(1, 14, 34);
                                     
-                                    font-size: 20px;
+                                    font-size: 30px;
                                     
                                     
                                     
@@ -335,15 +387,15 @@ background-repeat: no-repeat;
                                             
                                             float:left;
                                             
-                                            height: 200px;
+                                            height: 400px;
                                             
-                                            width: 260px;
+                                            width:460px;
                                             
                                             margin-left: 5px;
                                             
                                             margin-right:5px;
                                             
-                                            background-image: url("medellin.jpeg");
+                                            background-image: url("di.jpg")
                                             
                                             }
                         
@@ -351,9 +403,9 @@ background-repeat: no-repeat;
                                     
                                                 text-align: justify;
                                                 
-                                                color: azure;
+                                                color: rgb(1, 14, 34);
                                                 
-                                                font-size: 20px;
+                                                font-size: 30px;
                                                 
                                                 
                                                 
