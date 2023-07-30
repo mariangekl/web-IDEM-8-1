@@ -290,28 +290,7 @@ background-repeat: no-repeat;
                  
                 
                 }
-                
                 .imagensoc{
-            
-             
-            
-                  background-repeat: no-repeat;
-                  
-                  float:left;
-                  
-                  height: 1100px;
-                  
-                  width: 1900px;
-                  
-                  margin-left: 5px;
-                  
-                  margin-right:5px;
-                  
-                  background-image: url("mapa\ conceptual\ azul\ sociales\ .png");
-                  
-                  }
-
-                  .imagensoci{
             
              
             
@@ -319,15 +298,15 @@ background-repeat: no-repeat;
                     
                     float:left;
                     
-                    height: 360px;
+                    height: 1100px;
                     
-                    width: 600px;
+                    width: 1900px;
                     
                     margin-left: 5px;
                     
                     margin-right:5px;
                     
-                    background-image: url("hisp.jpg");
+                    background-image: url("mapa\ conceptual\ azul\ sociales\ .png");
                     
                     }
 
@@ -460,7 +439,7 @@ background-repeat: no-repeat;
                                                         
                                                         margin-right:5px;
                                                         
-                                                        background-image: url("inter.jpg");
+                                                        background-image: url("eje.jpg")                                                        ");
                                                         
                                                         }
 
@@ -480,117 +459,15 @@ background-repeat: no-repeat;
                                                           
                                                           margin-right:5px;
                                                           
-                                                          background-image: url("cel.jpg");
+                                                          background-image: url("cel.jpg")                                                        ");
                                                           
                                                           }
-                                                          .imagentecnol{
-                                    
-                                     
-                                    
-                                                            background-repeat: no-repeat;
-                                                            
-                                                            float:left;
-                                                            
-                                                            height: 200px;
-                                                            
-                                                            width: 260px;
-                                                            
-                                                            margin-left: 5px;
-                                                            
-                                                            margin-right:5px;
-                                                            
-                                                            background-image: url("cel.jpg");
-                                                            
-                                                            }
-
-
-
-
-                                                            .imagentecnolo{
-                                    
-                                     
-                                    
-                                                              background-repeat: no-repeat;
-                                                              
-                                                              float:left;
-                                                              
-                                                              height: 200px;
-                                                              
-                                                              width: 260px;
-                                                              
-                                                              margin-left: 5px;
-                                                              
-                                                              margin-right:5px;
-                                                              
-                                                              background-image: url("cam.jpg");
-                                                              
-                                                              }
-                                        
-                                                              .imagentecnolog{
-                                    
-                                     
-                                    
-                                                                background-repeat: no-repeat;
-                                                                
-                                                                float:left;
-                                                                
-                                                                height: 200px;
-                                                                
-                                                                width: 260px;
-                                                                
-                                                                margin-left: 5px;
-                                                                
-                                                                margin-right:5px;
-                                                                
-                                                                background-image: url("lam.jpg");
-                                                                
-                                                                }
-
-                                                                .giftecnologi{
-                                    
-                                     
-                                    
-                                                                  background-repeat: no-repeat;
-                                                                  
-                                                                  float:left;
-                                                                  
-                                                                  height: 200px;
-                                                                  
-                                                                  width: 600px;
-                                                                  
-                                                                  margin-left: 5px;
-                                                                  
-                                                                  margin-right:5px;
-                                                                  
-                                                                  background-image: url("circuito_resistivo.webp");
-                                                                  
-                                                                  }
-
-                                                                  .giftecnologia{
-                                    
-                                     
-                                    
-                                                                    background-repeat: no-repeat;
-                                                                    
-                                                                    float:left;
-                                                                    
-                                                                    height: 400px;
-                                                                    
-                                                                    width: 900px;
-                                                                    
-                                                                    margin-left: 5px;
-                                                                    
-                                                                    margin-right:5px;
-                                                                    
-                                                                    background-image: url("b25d5b381dcc731a48f3cd7a41ee35fc.gif");
-                                                                    
-                                                                    }
                                     
                                                         .textotecno{
                                                 
                                                             text-align: justify;
                                                             
-                                                            color: #020a20;
+                                                            color: #000516;
                                                             
                                                             font-size: 30px;
                                                             
