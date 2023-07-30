@@ -55,9 +55,9 @@ background-repeat: no-repeat;
   }
     
   
-  .fondosociales{
+  .fondosociales2{
     
-    background-image: url("hisp.jpg");
+    background-image: url("");
                             
     background-repeat: no-repeat;
                             
@@ -331,7 +331,7 @@ background-repeat: no-repeat;
                     
                     }
 
-                    .textosoc{
+                    .textosoci{
             
                         text-align: justify;
                         
@@ -359,7 +359,6 @@ background-repeat: no-repeat;
                             .imagening{
             
              
-            
                                 background-repeat: no-repeat;
                                 
                                 float:left;
@@ -372,7 +371,7 @@ background-repeat: no-repeat;
                                 
                                 margin-right:5px;
                                 
-                                background-image: url("");
+                                background-image: url("COR.jpg");
                                 
                                 }
             
