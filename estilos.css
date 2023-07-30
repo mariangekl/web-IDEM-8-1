@@ -290,7 +290,28 @@ background-repeat: no-repeat;
                  
                 
                 }
+                
                 .imagensoc{
+            
+             
+            
+                  background-repeat: no-repeat;
+                  
+                  float:left;
+                  
+                  height: 1100px;
+                  
+                  width: 1900px;
+                  
+                  margin-left: 5px;
+                  
+                  margin-right:5px;
+                  
+                  background-image: url("mapa\ conceptual\ azul\ sociales\ .png");
+                  
+                  }
+
+                  .imagensoci{
             
              
             
@@ -298,15 +319,15 @@ background-repeat: no-repeat;
                     
                     float:left;
                     
-                    height: 1100px;
+                    height: 360px;
                     
-                    width: 1900px;
+                    width: 600px;
                     
                     margin-left: 5px;
                     
                     margin-right:5px;
                     
-                    background-image: url("mapa\ conceptual\ azul\ sociales\ .png");
+                    background-image: url("hisp.jpg");
                     
                     }
 
@@ -439,17 +460,139 @@ background-repeat: no-repeat;
                                                         
                                                         margin-right:5px;
                                                         
-                                                        background-image: url("medellin.jpeg");
+                                                        background-image: url("inter.jpg");
                                                         
                                                         }
+
+                                                        .imagentecnol{
+                                    
+                                     
+                                    
+                                                          background-repeat: no-repeat;
+                                                          
+                                                          float:left;
+                                                          
+                                                          height: 200px;
+                                                          
+                                                          width: 260px;
+                                                          
+                                                          margin-left: 5px;
+                                                          
+                                                          margin-right:5px;
+                                                          
+                                                          background-image: url("cel.jpg");
+                                                          
+                                                          }
+                                                          .imagentecnol{
+                                    
+                                     
+                                    
+                                                            background-repeat: no-repeat;
+                                                            
+                                                            float:left;
+                                                            
+                                                            height: 200px;
+                                                            
+                                                            width: 260px;
+                                                            
+                                                            margin-left: 5px;
+                                                            
+                                                            margin-right:5px;
+                                                            
+                                                            background-image: url("cel.jpg");
+                                                            
+                                                            }
+
+
+
+
+                                                            .imagentecnolo{
+                                    
+                                     
+                                    
+                                                              background-repeat: no-repeat;
+                                                              
+                                                              float:left;
+                                                              
+                                                              height: 200px;
+                                                              
+                                                              width: 260px;
+                                                              
+                                                              margin-left: 5px;
+                                                              
+                                                              margin-right:5px;
+                                                              
+                                                              background-image: url("cam.jpg");
+                                                              
+                                                              }
+                                        
+                                                              .imagentecnolog{
+                                    
+                                     
+                                    
+                                                                background-repeat: no-repeat;
+                                                                
+                                                                float:left;
+                                                                
+                                                                height: 200px;
+                                                                
+                                                                width: 260px;
+                                                                
+                                                                margin-left: 5px;
+                                                                
+                                                                margin-right:5px;
+                                                                
+                                                                background-image: url("lam.jpg");
+                                                                
+                                                                }
+
+                                                                .giftecnologi{
+                                    
+                                     
+                                    
+                                                                  background-repeat: no-repeat;
+                                                                  
+                                                                  float:left;
+                                                                  
+                                                                  height: 200px;
+                                                                  
+                                                                  width: 600px;
+                                                                  
+                                                                  margin-left: 5px;
+                                                                  
+                                                                  margin-right:5px;
+                                                                  
+                                                                  background-image: url("circuito_resistivo.webp");
+                                                                  
+                                                                  }
+
+                                                                  .giftecnologia{
+                                    
+                                     
+                                    
+                                                                    background-repeat: no-repeat;
+                                                                    
+                                                                    float:left;
+                                                                    
+                                                                    height: 400px;
+                                                                    
+                                                                    width: 900px;
+                                                                    
+                                                                    margin-left: 5px;
+                                                                    
+                                                                    margin-right:5px;
+                                                                    
+                                                                    background-image: url("b25d5b381dcc731a48f3cd7a41ee35fc.gif");
+                                                                    
+                                                                    }
                                     
                                                         .textotecno{
                                                 
                                                             text-align: justify;
                                                             
-                                                            color: azure;
+                                                            color: #020a20;
                                                             
-                                                            font-size: 20px;
+                                                            font-size: 30px;
                                                             
                                                             
                                                             
