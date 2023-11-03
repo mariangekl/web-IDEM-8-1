@@ -595,29 +595,38 @@ background-repeat: no-repeat;
                                                             
                                                             
                                                             
+                                                            } 
+                                                            .textoings{
+                                                              text-align: justify;
+                                                
+                                                color: rgb(1, 14, 34);
+                                                
+                                                font-size: 30px;
+
+
+
+
                                                             }
- .textoins{
-text-align: justify;
-color: #020a20;
-font-size: 30px;
+                                                            .textoteco{
+                                                              text-align: justify;
+                                                
+                                                color: rgb(1, 14, 34);
+                                                
+                                                font-size: 30px;
 
 
- }                                                          
-.imageninfog{
-  background-repeat: no-repeat;
-                                                                
-  float:left;
-  
-  height: 200px;
-  
-  width: 260px;
-  
-  margin-left: 5px;
-  
-  margin-right:5px;
-  
-  background-image: url("imageninfog");
-}
+                                                            }
+                                                            .textoins{
+                                                              text-align: justify;
+                                                
+                                                color: rgb(1, 14, 34);
+                                                
+                                                font-size: 30px;
+
+
+                                                            }
+                                                            
+                                                          
 
                     
                     
