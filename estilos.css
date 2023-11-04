@@ -625,27 +625,7 @@ background-repeat: no-repeat;
 
 
                                                             }
-                                                            .infografia.sociales{
-                                                              background-repeat: no-repeat;
-                                                                
-                                                              float:left;
-                                                              
-                                                              height: 200px;
-                                                              
-                                                              width: 260px;
-                                                              
-                                                              margin-left: 5px;
-                                                              
-                                                              margin-right:5px;
-                                                              
-                                                              background-image: url("infografia.sociales.png");
-                                                              
-
-
-
-
-
-                                                            }
+                                                            
                                                             .imagenregla1{
                                     
                                      
@@ -654,16 +634,150 @@ background-repeat: no-repeat;
                                                               
                                                               float:left;
                                                               
-                                                              height: 200px;
+                                                              height: 425px;
                                                               
-                                                              width: 260px;
+                                                              width: 587px;
                                                               
                                                               margin-left: 5px;
                                                               
-                                                              margin-right:5px;
+                                                              margin: 5px;
                                                               
-                                                              background-image: url("ingles_regla1.jpg");
+                                                              background-image: url("regla1.jpg");
                                                               
+                                                              }
+                                                              .infografiasociales{
+                                                                background-repeat: no-repeat;
+                                                              
+                                                              float:left;
+                                                              
+                                                              height: 2000px;
+                                                              
+                                                              width: 800px;
+                                                              
+                                                              margin-left: 5px;
+                                                              
+                                                              margin: 5px;
+                                                              
+                                                              background-image: url("infografiasociales.png");
+                                                              
+
+
+
+
+                                                              }
+                                                              .imagenregla2{
+                                                                background-repeat: no-repeat;
+                                                              
+                                                                float:left;
+                                                                
+                                                                height: 280px;
+                                                                
+                                                                width: 390px;
+                                                                
+                                                                margin-left: 10px;
+                                                                
+                                                                margin: 10px;
+                                                                
+                                                                background-image: url("regla2.jpg");
+                                                              
+
+                                                              }
+                                                              .imagenregla3{
+                                                                background-repeat: no-repeat;
+                                                              
+                                                                float:left;
+                                                                
+                                                                height: 302px;
+                                                                
+                                                                width: 500px;
+                                                                
+                                                                margin-left: 5px;
+                                                                
+                                                                margin: 5px;
+                                                                
+                                                                background-image: url("regla3.jpg");
+                                                              
+                                                              }
+                                                              .imagenregla4{
+                                                                background-repeat: no-repeat;
+                                                              
+                                                                float:left;
+                                                                
+                                                                height: 302px;
+                                                                
+                                                                width: 500px;
+                                                                
+                                                                margin-left: 5px;
+                                                                
+                                                                margin: 5px;
+                                                                
+                                                                background-image: url("regla4.jpg");
+
+                                                              
+                                                              }
+                                                              .imagenregla5{
+                                                                background-repeat: no-repeat;
+                                                              
+                                                                float:left;
+                                                                
+                                                                height: 352px;
+                                                                
+                                                                width: 708px;
+                                                                
+                                                                margin-left: 5px;
+                                                                
+                                                                margin: 5px;
+                                                                
+                                                                background-image: url("regla5.jpg");
+
+                                                              
+                                                              }
+                                                              .imagenregla6{
+                                                                background-repeat: no-repeat;
+                                                              
+                                                                float:left;
+                                                                
+                                                                height: 500px;
+                                                                
+                                                                width: 500px;
+                                                                
+                                                                margin-left: 5px;
+                                                                
+                                                                margin: 5px;
+                                                                
+                                                                background-image: url("regla6.jpg");
+                                                              }
+                                                              .imagenregla7{
+                                                                background-repeat: no-repeat;
+                                                              
+                                                                float:left;
+                                                                
+                                                                height: 499px;
+                                                                
+                                                                width: 499px;
+                                                                
+                                                                margin-left: 5px;
+                                                                
+                                                                margin: 5px;
+                                                                
+                                                                background-image: url("regla7.jpg");
+
+
+                                                              }
+                                                              .imagenregla8{
+                                                                background-repeat: no-repeat;
+                                                              
+                                                                float:left;
+                                                                
+                                                                height: 500px;
+                                                                
+                                                                width: 500px;
+                                                                
+                                                                margin-left: 5px;
+                                                                
+                                                                margin: 5px;
+                                                                
+                                                                background-image: url("regla8.jpg");
                                                               }
                                                             
                                                             
